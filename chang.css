@@ -1,0 +1,40 @@
+body  {
+         background-color: #01939A;
+		 font-size: 18pt;
+		 font-family: Veranda; Geneva, Arial;
+		 color: black;
+		 text-align:center;
+		 }
+div      {}
+
+h1 { font-size: 28pt;text-align:center;
+     font-weight:bold;
+	 font-variant:small-caps;}
+
+h2 { text-align:center; font-size: 20pt}
+
+p { font-size: 14pt; margin:10pt;
+    border:20pt; }
+
+li { font-size:14pt;}
+
+#photo_left { 
+             float:left;
+			 border: 1px blue;
+			 padding: 20px;
+			 margin: 1px 1px;
+		}	 
+#photo_right {
+             float:right;
+			 border: 1px blue;
+			 padding: 5px;
+			 margin: 1px 1px;
+		}	
+		
+.introduction {margin: 0 auto; text-align:left; width: 900px; border:2px; background-color: orange;  
+              border-left: solid 2px black; border-right: solid 2px black}
+
+#header { font-size: 15; text-decoration: underline;
+      font-variant: small-caps;}
+
+#fsize {font-size;18pt;}
